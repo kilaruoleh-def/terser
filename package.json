@@ -63,7 +63,7 @@
   },
   "ovverrides": {
       "semver": "6.3.1"
-  }
+  },
   "scripts": {
     "test": "node test/compress.js && mocha test/mocha",
     "test:compress": "node test/compress.js",
